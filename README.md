@@ -17,9 +17,7 @@ Soy estudiante avanzado de **Licenciatura en Sistemas** con fuerte orientación 
 
 **Backend:** Java (Spring Boot, Hibernate), PHP (CodeIgniter), C++  
 **Frontend:** HTML, CSS, React  
-**Bases de datos:** SQL, MySQL  
-**Herramientas:** Git, XAMPP  
-**Metodologías:** Scrum, Kanban  
+**Bases de datos:** SQL, MongoDB  
 
 ---
 
@@ -49,8 +47,4 @@ Podés ver más en mis [repositorios públicos](https://github.com/ManuFGuerrero
 
 ---
 
-<!-- Acá podés insertar un banner o íconos de redes sociales con HTML o Markdown -->
-<!-- Ejemplo de banner (subido como imagen al repo):
-![Banner](banner.png)
--->
 
